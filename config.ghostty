@@ -1,0 +1,12 @@
+theme = dark:Forge Ember,light:Gruvbox Dark
+
+background-opacity = 0.50
+
+font-family = Red Hat Mono
+font-size = 12
+adjust-cell-height = -1
+adjust-cell-width = -1
+adjust-cursor-height = 4
+
+window-width = 191
+window-height = 45
